@@ -15,7 +15,7 @@ I'm a 2nd-year Software Engineering student at **IST Ambositara – Annexe Fandr
 **Currently focused on:**
 - REST API design and backend architecture
 - Full-stack web development
-- Java application development
+- Android development
 
 **Looking for:** Software development internship opportunities
 
